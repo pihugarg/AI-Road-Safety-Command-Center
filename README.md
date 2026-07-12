@@ -236,7 +236,7 @@ to identify accident trends, investigate root causes, locate accident hotspots, 
 **Pihu Gupta**
 
 - 💼 LinkedIn: www.linkedin.com/in/pihu-gupta-827917195
-- 💻 GitHub: *(Add your GitHub profile link)*
+- 💻 GitHub: https://github.com/pihugarg
 - 📧 Email: gargpihu9466@gmail.com
 
 ---
